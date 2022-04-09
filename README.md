@@ -1,16 +1,19 @@
 ### Hi 👋, I'm minsu sagong
 --- 
 #### ABOUT ME 😄
-I'm working on the development of the front end フロントエンドを開発することをお姫様だ
+I'm working on the development of the front end.
+フロントエンドを開発することをお姫様だ
 
 
 #### STUDY 👯
-I am currently studying Java development through Android studio. 現在アンドロイドスタジオを通じてジャワ開発を勉強しています
+I am currently studying Java development through Android studio. 
+現在アンドロイドスタジオを通じてジャワ開発を勉強しています
 
 
 ---
 #### Introducing My Develop 🌙  [STUDY GITHUB](https://github.com/liveintottenham/rosbook.git)
-- DALC is a club of students from Dongduk Women's University who are interested in AI technology and application services.  
+- I am currently studying computer software at Doneui-University, and I am working on several projects.
+- I am taking a leave of absence from Tokyo University of Technology in Tokyo, Japan.
 - You could see more details by clicking on the notion icon.
 [![Notion Badge](https://img.shields.io/badge/-Notion-ffd700?logo=notion&logoColor=white&link=https://www.notion.so/Dongduk-AI-Leraning-Crew-e0525781c75345bf944c01119270a9e6)](https://blog.naver.com/min__forty)
 ---
